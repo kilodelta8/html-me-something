@@ -1,0 +1,31 @@
+body {
+    background-color: #bfbfbf;
+    color: black;
+    font-family: 'Mukta', sans-serif;
+}
+
+h3 {
+    background-color: #00ff00;
+    opacity: 0.25;
+}
+h4 {
+    background-color: #00cc00;
+    opacity: 0.25;
+}
+
+nav {
+    padding: 20px;
+    background-color: #1a1a1a;
+    text-decoration: none;
+}
+
+p {
+
+}
+
+ul {
+    list-style: none;
+}
+
+
+

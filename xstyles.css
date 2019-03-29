@@ -1,0 +1,27 @@
+/*CSS or x.html*/
+body {
+    background-color: black;
+    color: greenyellow;
+}
+
+h1 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 75px;
+    margin-bottom: 0em;
+}
+
+h5 {
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 24px;
+    font-stretch: ultra-expanded;
+    margin-top: 0em;
+}
+
+
+
+/*
+font-family: 'Amatic SC', cursive;
+font-family: 'Shadows Into Light', cursive;
+font-family: 'Rajdhani', sans-serif;
+font-family: 'News Cycle', sans-serif;
+*/
